@@ -4,8 +4,12 @@ A comprehensive Power BI dashboard analyzing global progress toward Sustainable 
 
 ## 📊 Interactive Dashboard
 
-[![Power BI Dashboard Preview](dashboard-preview.png)](https://app.powerbi.com/view?r=eyJrIjoiMGIwODZiNmEtN2FmNS00OTMwLWE2MDYtZTZiYzA0NDE2ODhhIiwidCI6IjgyYzUxNGMxLWE3MTctNDA4Ny1iZTA2LWQ0MGQyMDcwYWQ1MiJ9)
+<img width="345" height="377" alt="image" src="https://github.com/user-attachments/assets/19be5ca6-e2ce-4052-a800-50a9659c39a6" />
 
+
+**[🔗 View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGIwODZiNmEtN2FmNS00OTMwLWE2MDYtZTZiYzA0NDE2ODhhIiwidCI6IjgyYzUxNGMxLWE3MTctNDA4Ny1iZTA2LWQ0MGQyMDcwYWQ1MiJ9)**
+
+*Click the image above to view the full interactive dashboard.*
 **👆 Click the image above to explore the full interactive Power BI dashboard**
 
 > 💡 The live dashboard includes interactive filters, drill-down capabilities, and real-time data exploration across all visualizations.
