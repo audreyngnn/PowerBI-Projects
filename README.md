@@ -83,7 +83,18 @@ This dashboard helps stakeholders understand:
 
 ## 📚 Data Sources
 
-United Nations Sustainable Development Goals database and related energy statistics repositories.
+All data is sourced from reputable open-data repositories:
+
+| Data Category | Source | Link |
+|---------------|--------|------|
+| **Political Stability** | World Bank | [View Data](https://data.worldbank.org/indicator/PV.PER.RNK) |
+| **Energy Investment** | World Bank | [View Data](https://data.worldbank.org/indicator/IE.PPI.ENGY.CD) |
+| **Urbanization** | Our World in Data | [View Data](https://ourworldindata.org/urbanization) |
+| **Access to Electricity** | Our World in Data | [View Data](https://ourworldindata.org/energy-access) |
+| **Renewable Energy** | Our World in Data | [View Data](https://ourworldindata.org/renewable-energy) |
+| **Fossil Fuels** | Our World in Data | [View Data](https://ourworldindata.org/fossil-fuels) |
+
+*All datasets are publicly available and regularly updated by the World Bank and Our World in Data.*
 
 ## 🚀 Future Enhancements
 
@@ -92,6 +103,6 @@ United Nations Sustainable Development Goals database and related energy statist
 - Country-specific deep-dive reports
 - Real-time data updates
 
-<br>
+---
 
 *This project supports the UN's mission to ensure access to affordable, reliable, sustainable, and modern energy for all by 2030.*
